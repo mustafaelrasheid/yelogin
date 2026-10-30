@@ -1,7 +1,7 @@
 use clap::Parser;
 
 #[derive(Parser)]
-#[command(name = "rlogin")]
+#[command(name = "yelogin")]
 #[command(version = "1.1.1")]
 #[command(author = "mustafaelrasheid")]
 #[command(
