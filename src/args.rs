@@ -2,7 +2,7 @@ use clap::Parser;
 
 #[derive(Parser)]
 #[command(name = "yelogin")]
-#[command(version = "1.1.1")]
+#[command(version)]
 #[command(author = "mustafaelrasheid")]
 #[command(
 	about = "A simple login and authentication program.",
